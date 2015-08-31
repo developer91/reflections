@@ -11,3 +11,7 @@ that can't impossibile repair and return a previous version of files.
 I use staging area adding files that i do changes, with the command get diff --staged can i see changes between the
 most recent commit and staging area and so i control if the commit that i want to do contains a one logical change 
 per commit if not i return back to the old commit.
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+For example when i have a large project, it can useful to have many branches that represent important changes in the
+project and each branch represent one state of project (a version of project).
