@@ -19,3 +19,7 @@ project and each branch represent one state of project (a version of project).
 -How do the diagrams help you visualize the branch structure?
 Diagrams help me to the branch structure by visualizing each commit for branch and also visualize me commit that isn't
 tracked by anyone branch.
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+All commit of two branches are merging together. Because is simple visualize the history of commit 
+and changes in the two branches.
