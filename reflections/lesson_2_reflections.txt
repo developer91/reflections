@@ -23,3 +23,7 @@ tracked by anyone branch.
 -What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 All commit of two branches are merging together. Because is simple visualize the history of commit 
 and changes in the two branches.
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros are that developerr don't worry about merging commits and controlling conflict between files changes. But
+cons are that developers don't have control of what Git merging and what discards from files to prevent conflicts.
