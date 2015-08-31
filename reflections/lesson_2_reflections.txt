@@ -1,0 +1,13 @@
+-What happens when you initialize a repository? Why do you need to do it?
+When i initialize a repository it has created a new directory called .git in the directory of the repository. 
+I need to do it because i can track changes in repository's files.
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from working directory and repository because it's a temporany area where put files
+that you want to commit in the repository. It offers an area for prevents damages or changes on the original files 
+that can't impossibile repair and return a previous version of files.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+I use staging area adding files that i do changes, with the command get diff --staged can i see changes between the
+most recent commit and staging area and so i control if the commit that i want to do contains a one logical change 
+per commit if not i return back to the old commit.
