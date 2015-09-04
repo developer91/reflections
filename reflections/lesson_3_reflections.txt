@@ -18,3 +18,13 @@ offline.
 I using chat and forums to collaborate with others developers. It's easier to discuss and talk with others
 developers but it's harder to work togheter wiht same project because each developer write his part of code
 and it's difficult find changes and organize activities with them.
+
+-When would you want to make changes in a separate branch rather than directly in master?
+ What benefits does each approach have?
+I want to make changes in a separate branch when i want to test my code-
+The benefit's approach to make changes directly in master branch are: one history of changes 
+and less pull and push commands to do from local repositoy to remote and both. 
+Instead benefits of the approach to make changes in another branch are: separation of project in multiple parts,
+prevention of irreversible errors. 
+in another branch are
+
