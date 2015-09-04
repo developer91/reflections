@@ -13,3 +13,8 @@ to the repository and i use branch when i want to test or do experiment somethin
 -What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit of having a copy of the last known state of the remote repository is that I can work on this
 offline.
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I using chat and forums to collaborate with others developers. It's easier to discuss and talk with others
+developers but it's harder to work togheter wiht same project because each developer write his part of code
+and it's difficult find changes and organize activities with them.
