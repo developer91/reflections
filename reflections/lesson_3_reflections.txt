@@ -9,3 +9,7 @@ Fork is a copy to a remote repository from another user that it can't permitted 
 a clone is a copy of a repository in local, branch is a way for have different part of a project and different changes.
 I use fork to collaborate to another user in a project. I use clone when i want to save locally in hard drive a copy 
 to the repository and i use branch when i want to test or do experiment something.
+
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last known state of the remote repository is that I can work on this
+offline.
